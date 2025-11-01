@@ -1,0 +1,29 @@
+# Built application files
+*.apk
+*.ear
+*.war
+/target/
+
+# Logs
+logs
+*.log
+
+# Eclipse
+.metadata
+bin/
+tmp/
+*.tmp
+*.patch
+*.settings
+.project
+.classpath
+
+# IDEA
+.idea/
+*.iml
+*.ipr
+*.iws
+out/
+
+# Other
+.DS_Store
